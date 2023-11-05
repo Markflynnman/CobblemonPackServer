@@ -803,11 +803,6 @@ hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
 metafile = true
 
 [[files]]
-file = "mods/extended-crafting.pw.toml"
-hash = "c81fcfd583e34f12e5ff4e3461e39261f99fc59b80f4f069b0cd8996f1896cae"
-metafile = true
-
-[[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "3d2150e9216ada5eb91922629208c05d577a4d496a3138c041b225b6e947f04d"
 metafile = true
