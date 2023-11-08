@@ -387,6 +387,11 @@ hash = "4fb86ab891eb380c00412b2c6b79373df9b95ce2804a90b4b27aa2e447d6f443"
 metafile = true
 
 [[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "e3c1d7b096563742d8b5c82bbae0713e6e7bb56f1a23dd068e0644aac938f369"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "fbfe78fc2ee5344d22a88a41dc69027002ac86eebf1c9401f93b22876c8f8ed3"
 metafile = true
