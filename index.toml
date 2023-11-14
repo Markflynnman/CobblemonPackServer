@@ -198,7 +198,7 @@ hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
 
 [[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
-hash = "ce41ae297c8163b04049f4b98502af961b167967660c15bff254248f573bf107"
+hash = "48ab24c54466ee53e53e50d03725ffb37a09667762e87ced066b701cf047b0a3"
 
 [[files]]
 file = "kubejs/README.txt"
